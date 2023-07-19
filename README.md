@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olaalsaker&label=Profile%20views&color=0e75b6&style=flat" alt="olaalsaker" /> </p>
 
-👨‍💻 I’m currently working as a web-developer at [Appex](https://appex.no)
+👨‍💻 I’m currently working as senior system-developer at [Appex](https://appex.no)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
